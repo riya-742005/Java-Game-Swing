@@ -2,7 +2,7 @@
 
 A simple 2D Java game built using **Swing and AWT**, where the player character moves through a jungle while avoiding deadly spiders! 🕷️🌳
 
-![Game Preview](./src/Forest1.jpg)
+
 
 ---
 
@@ -51,7 +51,7 @@ Java-Game/
 
 ---
 📸 Screenshots
-<img src="./src/player.gif" width="100"/> <img src="./src/spider.gif" width="100"/>
+![Screenshot (16)](https://github.com/user-attachments/assets/7c0086be-b542-4e26-8d1f-95d555938b0e)
 
 
 💡 Inspired By
